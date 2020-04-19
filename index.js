@@ -105,7 +105,7 @@
     Runner.config = {
         ACCELERATION: 0.001,
         BG_CLOUD_SPEED: 0.2,
-        BOTTOM_PAD: 10,
+        BOTTOM_PAD: 20,
         CLEAR_TIME: 3000,
         CLOUD_FREQUENCY: 0.5,
         GAMEOVER_CLEAR_TIME: 750,
