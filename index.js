@@ -560,7 +560,7 @@
                 // Night mode.
                 if (this.invertTimer > this.config.INVERT_FADE_DURATION) {
                     this.invertTimer = 0;
-                    this.invertTrigger = false;
+                    this.invertTrigger = true;
                     this.invert();
                 } else if (this.invertTimer) {
                     this.invertTimer += deltaTime;
