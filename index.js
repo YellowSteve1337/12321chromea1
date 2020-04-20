@@ -122,8 +122,8 @@
         MIN_JUMP_HEIGHT: 20,
         MOBILE_SPEED_COEFFICIENT: 1.2,
         RESOURCE_TEMPLATE_ID: 'audio-resources',
-        SPEED: 4,
-        SPEED_DROP_COEFFICIENT: 4
+        SPEED: 7,
+        SPEED_DROP_COEFFICIENT: 3
     };
 
 
